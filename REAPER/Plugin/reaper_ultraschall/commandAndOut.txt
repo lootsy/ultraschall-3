@@ -1,0 +1,9 @@
+/c/Strawberry/perl/bin/perl.exe vcxproj2cmake.pl reaper_ultraschall.vcxproj Release
+
+$ /c/Strawberry/perl/bin/perl.exe vcxproj2cmake.pl reaper_ultraschall.vcxproj Release
+Use of uninitialized value $add_dep in substitution (s///) at vcxproj2cmake.pl line 387.
+Use of uninitialized value $add_dep in split at vcxproj2cmake.pl line 389.
+$VAR1 = './framework';
+$VAR2 = './reaper';
+Could not open framework\FileUtilities.h: No such file or directory at vcxproj2cmake.pl line 302.
+
